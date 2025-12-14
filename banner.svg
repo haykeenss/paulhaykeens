@@ -1,0 +1,98 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a1628"/>
+      <stop offset="100%" stop-color="#050c18"/>
+    </linearGradient>
+
+    <style>
+      .screen text {
+        font-family: monospace;
+        font-size: 10px;
+        fill: #8fbfff;
+        opacity: 0.6;
+        animation: scroll 6s linear infinite;
+      }
+
+      .screen {
+        opacity: 0.35;
+        animation: focus 9s infinite;
+      }
+
+      .s1 { animation-delay: 0s; }
+      .s2 { animation-delay: 3s; }
+      .s3 { animation-delay: 6s; }
+
+      .head {
+        animation: look 9s infinite;
+        transform-origin: center;
+      }
+
+      @keyframes scroll {
+        from { transform: translateY(0); }
+        to { transform: translateY(-120px); }
+      }
+
+      @keyframes focus {
+        0%,20% { opacity: 0.85; }
+        33%,100% { opacity: 0.35; }
+      }
+
+      @keyframes look {
+        0%,20%   { transform: translateX(-6px); }
+        33%,53%  { transform: translateX(0); }
+        66%,86%  { transform: translateX(6px); }
+        100%     { transform: translateX(-6px); }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <!-- Desk -->
+  <rect x="0" y="210" width="1200" height="90" fill="#030914"/>
+
+  <!-- Screens -->
+  <g class="screen s1" transform="translate(360 70)">
+    <rect width="160" height="90" rx="6" fill="#0e1d33"/>
+    <text x="10" y="20">
+      function authCheck()&#10;
+      if token.valid&#10;
+      allow_access()&#10;
+      log_event()
+    </text>
+  </g>
+
+  <g class="screen s2" transform="translate(520 60)">
+    <rect width="160" height="100" rx="6" fill="#0e1d33"/>
+    <text x="10" y="25">
+      GET /api/user&#10;
+      401 Unauthorized&#10;
+      Fix ACL logic&#10;
+      retest endpoint
+    </text>
+  </g>
+
+  <g class="screen s3" transform="translate(680 70)">
+    <rect width="160" height="90" rx="6" fill="#0e1d33"/>
+    <text x="10" y="20">
+      nuclei -t auth&#10;
+      subdomain scan&#10;
+      severity: high&#10;
+      report draft
+    </text>
+  </g>
+
+  <!-- Chair -->
+  <rect x="540" y="170" width="120" height="70" rx="20" fill="#0b1628"/>
+
+  <!-- Body -->
+  <rect x="575" y="130" width="50" height="60" rx="10" fill="#13233f"/>
+
+  <!-- Head -->
+  <circle class="head" cx="600" cy="110" r="18" fill="#1a2f55"/>
+
+</svg>
