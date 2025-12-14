@@ -1,5 +1,5 @@
 # Hi, I’m Godwin Akinyomi (aka PaulHaykeens)
-### Ethical Hacker @ [Proforce Intelligence](https://proforceintelligence.com)
+### Ethical Hacker @ [ProforceIntelligence System](https://proforceintelligence.com)
 
 <!-- Typing SVG Banner -->
 <p align="center">
@@ -12,7 +12,7 @@ Welcome to my GitHub profile. I’m a technology-focused builder and security en
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 - 🔐 **Cybersecurity Researcher** with strong focus on offensive and defensive security
 - 🧪 Per-time bughunter on **bug bounty programs** (Intigriti, Bugcrowd, HackerOne)
@@ -72,6 +72,7 @@ I am particularly interested in identifying and responsibly disclosing vulnerabi
 - Secure application and API reviews
 - Developing structured learning paths for cybersecurity and development
 - Supporting encryption and secure data workflows in production environments
+- Darkweb Intelligence Monitoring and OSINT
 
 ---
 
@@ -85,7 +86,7 @@ I am particularly interested in identifying and responsibly disclosing vulnerabi
 
 ## 🎯 Philosophy
 
-I believe strong security comes from **deep system understanding**—how systems are designed, how they fail, and how attackers think. Security is not a one-time effort, but an ongoing process of learning, testing, and improvement.
+I believe strong security comes from **deep system understanding**, how systems are designed, how they fail, and how attackers think. Security is not a one-time effort, but an ongoing process of learning, testing, and improvement.
 
 ---
 
