@@ -1,53 +1,112 @@
-# Hi there, I'm Paul Haykeens 👋
+# Hi, I’m Godwin Akinyomi (aka PaulHaykeens)
+### Ethical Hacker @ [Proforce Intelligence](https://proforceintelligence.com)
 
-### Cybersecurity Researcher | Application Security Enthusiast | Bug Bounty Hunter
+<!-- Typing SVG Banner -->
+<p align="center">
 
-I'm a passionate security researcher and developer focused on offensive security, bug bounty hunting, and building recon tools. Founder of **HAYTECH ACADEMY AND SERVICES**, I educate and empower others in tech and cybersecurity.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Godwin+Akinyomi+%7C+PaulHaykeens;Ethical+Hacker+%40+Proforce+Intelligence;Cybersecurity+Researcher+%7C+Bug+Bounty+Hunter;Python+%7C+AppSec+%7C+Automation&center=true&width=900)](https://git.io/typing-svg)
 
----
+</p>
 
-### 🔍 About Me
-- 🎯 Specialized in Web Application Security
-- 🛠 Tools: Burp Suite, Nmap, Nuclei, Subfinder, ffuf, Paramspider, DNSx, HTTPX
-- 💻 Languages: Python, JavaScript, Bash
-- 🌐 Recon Automation, API Testing, Auth Bugs, XSS, IDOR, CSRF
-- 🚀 Founder of [HAYTECH ACADEMY AND SERVICES](#)
+Welcome to my GitHub profile. I’m a technology-focused builder and security enthusiast with hands-on experience across **cybersecurity**, **software development**, and **technical education**. I enjoy working at the intersection of *building systems* and *breaking them safely* to make them more secure, reliable, and scalable.
 
 ---
 
-### 🛡️ Bug Bounty & Research Highlights
-- **Pinterest**: Found and documented account enumeration & session management issues
-- **Bugcrowd Carnival of ChAIos**: Participated in a high-stakes red teaming challenge
-- **Recon Automation Suite**: Built a modular script to monitor targets and alert via Discord
+## 🧠 About Me
+
+- 🔐 **Cybersecurity Researcher** with strong focus on offensive and defensive security
+- 🧪 Per-time bughunter on **bug bounty programs** (Intigriti, Bugcrowd, HackerOne)
+- 🛡️ Specialized in **Web Application Security** and real-world attack surfaces
+- 💻 **Developer**: Web, mobile, automation, and scripting (Python/bash-focused)
+- 🤖 **Robotics & Autonomous Systems** enthusiast (Arduino & embedded systems)
+- 🎓 Founder of **HAYTECH OPs** (formerly HAYTECH Academy & Services)
+- 🚀 Entrepreneurial, research-driven, and community-focused
+
+I am particularly interested in identifying and responsibly disclosing vulnerabilities as regard top 10 OWASP such as **Broken Access Control**, **authentication and session flaws**, **IDOR**, **misconfigurations**, **XSS**, and **data exposure risks**, and translating findings into clear, actionable remediation guidance.
 
 ---
 
-### 📚 What I Teach
-- Offensive and Defensive Cybersecurity
-- Web & Mobile App Development
-- Arduino Programming and Robotics
+## 🛠️ Technical Skills
+
+### Programming & Scripting
+- Python (primary)
+- JavaScript
+- Bash / Linux
+
+### Cybersecurity
+- Web application security testing
+- Bug bounty methodology
+- Reconnaissance & attack surface mapping
+- Static Application Security Testing (SAST)
+- Dynamic & runtime analysis (DAST)
+- Authentication & authorization testing
+- API security testing
+- Subdomain monitoring & automation
+
+### Tools & Frameworks
+- Burp Suite
+- Nmap
+- Nuclei
+- MOBSF
+- Semgrep
+- Subfinder, DNSx, HTTPX
+- ffuf, ParamSpider
+
+### Development & Systems
+- Web & mobile app development
+- API testing and analysis
+- Linux & WSL environments
+- Automation and custom tooling
+
+### Hardware & Robotics
+- Arduino programming
+- Autonomous and embedded systems (introductory–intermediate)
 
 ---
 
-### 📈 GitHub Stats
-![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=haytechacademy&show_icons=true&theme=radical)
+## 🔍 What I’m Working On
+
+- Security research and vulnerability discovery in real-world applications
+- Bug bounty hunting and responsible disclosure
+- Building recon and automation tools for scalable testing
+- Secure application and API reviews
+- Developing structured learning paths for cybersecurity and development
+- Supporting encryption and secure data workflows in production environments
 
 ---
 
-### 📫 How to reach me
-- Email: haytech46@gmail.com
-- LinkedIn: [www.linkedin.com/in/
-paulhaykeens](#)
-- Twitter: [Your Twitter](#)
-- Discord: haykeenspaul
+## 🧩 Research & Experience Highlights
+
+- **Pinterest**: Identified and documented account enumeration and session management weaknesses
+- **Bugcrowd – Carnival of ChAIos**: Selected participant in a high-stakes collaborative red teaming challenge
+- **Recon Automation Suite**: Built modular tooling for continuous target monitoring with Discord and Telegram alerts
 
 ---
 
-> "Security is not a product, but a process."
+## 🎯 Philosophy
 
-Feel free to fork or use my tools, and hit me up for collaboration or mentoring!
+I believe strong security comes from **deep system understanding**—how systems are designed, how they fail, and how attackers think. Security is not a one-time effort, but an ongoing process of learning, testing, and improvement.
 
 ---
 
-⭐️ *If you like my work, give it a star or buy me a coffee ☕️*
+## 🤝 Let’s Connect
+
+I’m open to:
+- Security research collaboration
+- Open-source contributions
+- Bug bounty and AppSec discussions
+- Mentorship and learning-focused conversations
+- Building tools that solve real-world security problems
+
+**Contact & Links**
+- 📧 Email: haytech46@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/paulhaykeens
+- 💬 Discord: haykeenspaul
+- 🐦 Twitter/X: (https://x.com/haykeens_)
+
+---
+
+> _“Build with intent. Break with ethics. Learn continuously.”_
+
+> _“If you can dream it, you can achieve it.”_
 
