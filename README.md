@@ -12,6 +12,10 @@ Welcome to my GitHub profile. I’m a technology-focused builder and security en
 
 ---
 
+<p align="center">
+  <img src="banner.svg" width="100%" />
+</p>
+
 ##  About Me
 
 - 🔐 **Cybersecurity Researcher** with strong focus on offensive and defensive security
